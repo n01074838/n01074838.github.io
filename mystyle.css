@@ -1,0 +1,16 @@
+.headings{
+    color:#177FB6;
+    font-weight: bold;
+    font-size: 210%;
+}
+.headings:hover{
+    color: #177FB6;
+    font-size: 216%;
+    text-shadow: 0 0 10px #3DFFEA;
+}
+
+a:hover{
+    color: #177FB6;
+    font-size: 107%;
+    text-shadow: 0 0 10px #3DFFEA;
+}
