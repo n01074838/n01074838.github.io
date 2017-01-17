@@ -3,7 +3,6 @@ csl: apa.csl
 bibliography: Zigbeemesh.bib
 ---
 
-
 Submission Date, 2016
 
 *Proposal for the development of Project Name*
@@ -49,9 +48,8 @@ words of
 background\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-I have searched for prior art via Humber’s IEEE subscription selecting “My
-Subscribed Content”[1] and have found and read [2] which provides insight into
-similar efforts.
+I have searched for prior art and have found and read [@7549062] which provides
+insight into similar efforts.
 
 In the Computer Engineering Technology program we have learned about the
 following topics from the respective relevant courses:
@@ -100,10 +98,11 @@ The system integration will be completed in the fall term.
 This project will showcase the knowledge and skills that I have learned to
 potential employers.
 
-The tables below provide rough effort and non-labour estimates respectively for
-each phase. A Gantt chart will be added by week 3 to provide more project
-schedule details and a more complete budget will be added by week 4. It is
-important to start tasks as soon as possible to be able to meet deadlines.
+The tables below [@1653008] provide rough effort and non-labour estimates
+respectively for each phase. A Gantt chart will be added by week 3 to provide
+more project schedule details and a more complete budget will be added by week
+4. It is important to start tasks as soon as possible to be able to meet
+deadlines.
 
 | **Labour Estimates**                                                                                                                                                                                                                                                                                                                  | **Hrs**        | **Notes**                                                                                                                      |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------|
@@ -168,22 +167,9 @@ This proposal presents a plan for providing an IoT solution for
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. This is an
 opportunity to integrate the knowledge and skills developed in our program to
 create a collaborative IoT capstone project demonstrating my ability to learn
-how to support projects such as the initiative described by [2]. I request
-approval of this project.
+how to support projects such as the initiative described by [@7352296]. I
+request approval of this project.
 
 **References**
 
-[1] Institute of Electrical and Electronics Engineers. (2015, August 28). IEEE
-Xplore Digital Library [Online]. Available:
-https://ieeexplore.ieee.org/search/advsearch.jsp
-
-[2] Segura-Garcia, J.; Felici-Castell, S.; Perez-Solano, J.J.; Cobos, M.;
-Navarro, J.M., "Low-Cost Alternatives for Urban Noise Nuisance Monitoring Using
-Wireless Sensor Networks," *Sensors Journal, IEEE*, vol.15, no.2, pp.836,844,
-Feb. 2015 doi: 10.1109/JSEN.2014.2356342
-
-[3] Creatron. (2015, August 28). Part Number: RASPI-004499 [Online]. Available:
-https://www.creatroninc.com/product/raspberry-pi-2-media-starter-kit/
-
-[4] Upton, Liz. (2015, August 28). Raspberry Pi colocation [Online]. Available:
-http://raspberrycolocation.com/
+ 
