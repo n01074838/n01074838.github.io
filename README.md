@@ -1,3 +1,8 @@
+---
+csl: ""
+bibliography: Zigbeemesh.bib
+---
+
 ![](media/image1.jpeg)
 
 January 20, 2017
@@ -17,9 +22,10 @@ to develop a mesh network using Digimesh protocol and a DMX transmitter and
 receiver. The hardware will include an XBee 900hp RF module connected with XBee
 Grove development board for communicating with a computer and use XCTU software
 to send and receive packets. I will also be working on developing a DMX
-transmitter and receiver using [put device details upon research]. I will be
-collaborating with Humber College Prototype Lab. In this winter semester I will
-be working with Kristian Medri and Vlad Porcila from the Prototype Lab.
+transmitter and receiver using Feather 32u4 radio and Arduino UNO to generate
+DMX signal. I will be collaborating with Humber College Prototype Lab. In this
+winter semester I will be working with Kristian Medri and Vlad Porcila from the
+Prototype Lab.
 
 **Background**
 
@@ -155,7 +161,7 @@ This proposal presents a plan for providing an IoT solution for developing a
 mesh network of 900Mhz RF modules and DMX signal transmission wirelessly. This
 is an opportunity to integrate the knowledge and skills developed in our program
 to create a collaborative IoT capstone project demonstrating my ability to learn
-how to support projects such as the initiative described by . I request approval
-of this project.
+how to support projects such as the initiative described by [@7352296]. I
+request approval of this project.
 
 **References**
