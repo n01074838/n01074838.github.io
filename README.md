@@ -40,8 +40,8 @@ signals are transmitted over cable connection, but to be able to do so
 wirelessly in a reliable way adds much more flexibility to the system.
 
 I have searched for prior art via Humber’s IEEE subscription selecting “My
-Subscribed Content” [1] and have found and read [2] which provides insight into
-similar efforts.
+Subscribed Content” [@6169161] and have found and read [@7352296] which provides
+insight into similar efforts.
 
 In the Computer Engineering Technology program we have learned about the
 following topics from the respective relevant courses:
@@ -136,14 +136,14 @@ important to start tasks as soon as possible to be able to meet deadlines.
 | **Phase 3 Total**                                                                         | **TBD**          |                                                                                                                                |
 | **Material Estimates**                                                                    | **Cost**         | **Notes**                                                                                                                      |
 | **Phase 1**                                                                               |                  |                                                                                                                                |
-| RF module with development board x 3                                                      | \>\$143.55       | An example of a retailer: [3]. Covered by Humber Prototype Lab.                                                                |
-| RF modules with microprocessor (Feather rfm69hcw)                                         | \>\$30.00        | An example of retailer: []. Covered by Humber Prototype Lab.                                                                   |
+| RF module with development board x 3                                                      | \>\$143.55       | Covered by Humber Prototype Lab.                                                                                               |
+| RF modules with microprocessor (Feather rfm69hcw)                                         | \>\$30.00        | Covered by Humber Prototype Lab.                                                                                               |
 | **Phase 1 Total**                                                                         | **\>\$173.5.00** |                                                                                                                                |
 | **Phase 2**                                                                               |                  |                                                                                                                                |
 | Materials to improve functionality, fit, and finish of project.                           |                  |                                                                                                                                |
 | **Phase 2 Total**                                                                         | **TBD**          |                                                                                                                                |
 | **Phase 3**                                                                               |                  |                                                                                                                                |
-| Off campus colocation                                                                     | \<\$100.00       | An example: [4].                                                                                                               |
+| Off campus colocation                                                                     | \<\$100.00       |                                                                                                                                |
 | *Shipping*                                                                                | *TBD*            |                                                                                                                                |
 | *Tax*                                                                                     | *TBD*            |                                                                                                                                |
 | *Duty*                                                                                    | *TBD*            |                                                                                                                                |
@@ -155,22 +155,7 @@ This proposal presents a plan for providing an IoT solution for developing a
 mesh network of 900Mhz RF modules and DMX signal transmission wirelessly. This
 is an opportunity to integrate the knowledge and skills developed in our program
 to create a collaborative IoT capstone project demonstrating my ability to learn
-how to support projects such as the initiative described by [2]. I request
-approval of this project.
+how to support projects such as the initiative described by . I request approval
+of this project.
 
 **References**
-
-[1] Institute of Electrical and Electronics Engineers. (2015, August 28). IEEE
-Xplore Digital Library [Online]. Available:
-https://ieeexplore.ieee.org/search/advsearch.jsp
-
-[2] Segura-Garcia, J.; Felici-Castell, S.; Perez-Solano, J.J.; Cobos, M.;
-Navarro, J.M., "Low-Cost Alternatives for Urban Noise Nuisance Monitoring Using
-Wireless Sensor Networks," *Sensors Journal, IEEE*, vol.15, no.2, pp.836,844,
-Feb. 2015 doi: 10.1109/JSEN.2014.2356342
-
-[3] Creatron. (2015, August 28). Part Number: RASPI-004499 [Online]. Available:
-https://www.creatroninc.com/product/raspberry-pi-2-media-starter-kit/
-
-[4] Upton, Liz. (2015, August 28). Raspberry Pi colocation [Online]. Available:
-http://raspberrycolocation.com/
