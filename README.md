@@ -7,7 +7,7 @@ bibliography: Zigbeemesh.bib
 
 January 20, 2017
 
-*Proposal for the development of Wireless Mesh Network*
+*Proposal for the development of Wireless*
 
 Prepared by Pramit Roy  
 *Computer Engineering Technology Student*  
