@@ -1,6 +1,6 @@
 ---
-bibliography: Zigbeemesh.bib
 csl: apa.csl
+bibliography: Zigbeemesh.bib
 ---
 
 ![](media/image1.jpeg)
@@ -22,10 +22,10 @@ to develop a mesh network using Digimesh protocol and a DMX transmitter and
 receiver. The hardware will include an XBee 900hp RF module connected with XBee
 Grove development board for communicating with a computer and use XCTU software
 to send and receive packets. I will also be working on developing a DMX
-transmitter and receiver using Feather 32u4 radio and Arduino UNO to generate
-DMX signal. I will be collaborating with Humber College Prototype Lab. In this
-winter semester I will be working with Kristian Medri and Vlad Porcila from the
-Prototype Lab.
+transmitter and receiver using Feather 32u4 radio (rfm69hcw) and Arduino UNO to
+generate DMX signal. I will be collaborating with Humber College Prototype Lab.
+In this winter semester I will be working with Kristian Medri and Vlad Porcila
+from the Prototype Lab.
 
 **Background**
 
